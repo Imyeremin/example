@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2024 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="torso" unicode="&#xe800;" d="M0-150l0 358 338 144q-61 37-92 101t-31 133q0 104 64 184t162 80q102-4 164-83t63-181q-2-74-33-136t-86-98l334-144 0-358-883 0z" horiz-adv-x="883" />
+
+<glyph glyph-name="logout" unicode="&#xf02d;" d="M0 84q0-84 59-143t144-60h72q33 0 57 24t23 57-23 57-57 23h-72q-18 0-30 13t-12 29v532q0 17 12 29t30 13h72q33 0 57 23t23 57-23 57-57 23h-72q-84 0-144-59t-59-143v-532z m238 252q0 33 24 57t57 23h344l-110 111q-24 23-24 57t24 57q23 23 57 23t56-23l248-248q23-24 23-57t-23-57l-243-242q-23-23-57-23t-57 23q-23 23-23 57t24 57l105 105h-344q-33 0-57 23t-24 57z" horiz-adv-x="937.5" />
+
+<glyph glyph-name="bell-alt" unicode="&#xf0f3;" d="M509-96q0 8-9 8-33 0-57 24t-23 57q0 9-9 9t-9-9q0-41 29-70t69-28q9 0 9 9z m455 160q0-29-21-50t-50-21h-250q0-59-42-101t-101-42-101 42-42 101h-250q-29 0-50 21t-21 50q28 24 51 49t47 67 42 89 27 115 11 145q0 84 66 157t171 89q-5 10-5 21 0 23 16 38t38 16 38-16 16-38q0-11-5-21 106-16 171-89t66-157q0-78 11-145t28-115 41-89 48-67 50-49z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

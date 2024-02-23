@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul li{
+    list-style: none;
+}
+.logo{
+    font-size: 50px;
+}
+.icon-menu > div{
+font-size: 30px;
+}
+body{
+    margin: 50px 200px;
+}
+
+.container-footer,
+.log-menu,
+.menu-foot > ul,
+.icon-menu{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.container-footer{
+    background-color: rgb(2, 181, 213);
+    padding: 10px;
+    justify-content: space-between;
+  
+}
+.menu-foot > ul > li{
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    color: rgb(207, 207, 207);
+}
+.menu-foot > ul > li:hover{
+color: white;
+}
